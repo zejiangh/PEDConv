@@ -9,7 +9,7 @@ limit the computational cost to maintain inference efficiency. Meanwhile, the pr
 
 <div align="center">
   <img width="100%" src="pedconv.png">
-</div>s
+</div>
 
 * This repo was built upon the [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples). Installation and setup of NVIDIA docker follows that repo.
 
